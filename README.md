@@ -1,6 +1,8 @@
 Employees Insights-Dashboard-MySQL-PowerBI
 ![image](https://github.com/Knob123/Employees-Insights-Dashboard/assets/137094560/1c1ec059-4be5-4cd7-9443-a75d72694069)
 
+![image](https://github.com/Knob123/Employees-Insights-Dashboard/assets/137094560/5125d45f-8d8f-4f10-86bf-e96213041b35)
+
 
 
 **Data Used**
